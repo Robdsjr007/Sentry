@@ -15,8 +15,8 @@ Este projeto implementa um sistema de **detecção de phishing** utilizando **Ma
 ## 🚀 Como Instalar e Rodar o Projeto
 ### 1️⃣ Clonar o repositório
 ```bash
-  git clone https://github.com/seu-repositorio/phishing-detector.git
-  cd phishing-detector
+  git clone https://github.com/Robdsjr007/Sentry.git
+  cd Sentry
 ```
 
 ### 2️⃣ Criar e ativar um ambiente virtual (opcional, mas recomendado)
